@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/ABC_HW1_cleanC.dir/main.c.o CMakeFiles/ABC_HW1_cleanC.dir/container.c.o CMakeFiles/ABC_HW1_cleanC.dir/animal.c.o CMakeFiles/ABC_HW1_cleanC.dir/fish.c.o CMakeFiles/ABC_HW1_cleanC.dir/bird.c.o CMakeFiles/ABC_HW1_cleanC.dir/beast.c.o -o ABC_HW1_cleanC 

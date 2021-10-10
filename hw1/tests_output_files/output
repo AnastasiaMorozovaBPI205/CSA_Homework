@@ -1,0 +1,14 @@
+Before sort function
+
+Container contains  3  elements. 
+0  structure: FISH name:  kambala ; weight:  5 ; home: river; func res:  142.800000
+1  structure: BIRD name:  popug ; weight:  10 ; this bird is migratory; func res:  65.300000
+2  structure: BEAST name:  catty ; weight:  77 ; this beast is carnivores; func res:  8.402597
+
+
+ After sort function
+
+Container contains  3  elements. 
+0  structure: FISH name:  kambala ; weight:  5 ; home: river; func res:  142.800000
+1  structure: BIRD name:  popug ; weight:  10 ; this bird is migratory; func res:  65.300000
+2  structure: BEAST name:  catty ; weight:  77 ; this beast is carnivores; func res:  8.402597

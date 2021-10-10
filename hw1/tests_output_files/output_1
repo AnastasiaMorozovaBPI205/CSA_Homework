@@ -1,0 +1,28 @@
+Before sort function
+
+Container contains  10  elements. 
+0  structure: FISH name:  kambala ; weight:  5 ; home: river; func res:  142.800000
+1  structure: BIRD name:  popug ; weight:  10 ; this bird is migratory; func res:  65.300000
+2  structure: BEAST name:  catty ; weight:  77 ; this beast is carnivores; func res:  8.402597
+3  structure: BIRD name:  tired ; weight:  34 ; this bird is migratory; func res:  18.647059
+4  structure: BIRD name:  bee ; weight:  11 ; this bird is not migratory; func res:  45.272727
+5  structure: BEAST name:  doggy ; weight:  23 ; this beast is herbivores; func res:  27.652174
+6  structure: FISH name:  nemo ; weight:  2 ; home: sea;  func res:  264.500000
+7  structure: FISH name:  beer ; weight:  23 ; home: lake; func res:  22.260870
+8  structure: BEAST name:  doberman ; weight:  55 ; this beast is insectivores; func res:  15.272727
+9  structure: BIRD name:  abcdefg ; weight:  10 ; this bird is migratory; func res:  70.000000
+
+
+ After sort function
+
+Container contains  10  elements. 
+0  structure: FISH name:  nemo ; weight:  2 ; home: sea;  func res:  264.500000
+1  structure: FISH name:  kambala ; weight:  5 ; home: river; func res:  142.800000
+2  structure: BIRD name:  abcdefg ; weight:  10 ; this bird is migratory; func res:  70.000000
+3  structure: BIRD name:  popug ; weight:  10 ; this bird is migratory; func res:  65.300000
+4  structure: BIRD name:  bee ; weight:  11 ; this bird is not migratory; func res:  45.272727
+5  structure: BEAST name:  doggy ; weight:  23 ; this beast is herbivores; func res:  27.652174
+6  structure: FISH name:  beer ; weight:  23 ; home: lake; func res:  22.260870
+7  structure: BIRD name:  tired ; weight:  34 ; this bird is migratory; func res:  18.647059
+8  structure: BEAST name:  doberman ; weight:  55 ; this beast is insectivores; func res:  15.272727
+9  structure: BEAST name:  catty ; weight:  77 ; this beast is carnivores; func res:  8.402597
