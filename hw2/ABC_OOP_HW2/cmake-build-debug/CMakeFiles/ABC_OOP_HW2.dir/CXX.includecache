@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anastasia/CLionProjects/ABC_OOP_HW2/Animal.h
+cstdio
+-
+Random.h
+/home/anastasia/CLionProjects/ABC_OOP_HW2/Random.h
+
+/home/anastasia/CLionProjects/ABC_OOP_HW2/Random.h
+cstdlib
+-
+ctime
+-
+
+/home/anastasia/CLionProjects/ABC_OOP_HW2/container.h
+cstdio
+-
+Animal.h
+/home/anastasia/CLionProjects/ABC_OOP_HW2/Animal.h
+
+/home/anastasia/CLionProjects/ABC_OOP_HW2/main.cpp
+cstdio
+-
+container.h
+/home/anastasia/CLionProjects/ABC_OOP_HW2/container.h
+cstdlib
+-
+ctime
+-
+cstring
+-
+

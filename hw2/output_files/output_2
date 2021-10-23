@@ -1,0 +1,48 @@
+Before sort function
+
+Container contains  20  elements. 
+0  class: FISH; name:  dllqjq ; weight:  28 ; home: sea;  func res:  23.142857
+1  class: FISH; name:  stygyzmvd ; weight:  73 ; home: sea;  func res:  14.041096
+2  class: BEAST; name:  yvdcohznc ; weight:  58 ; this beast is insectivores; func res:  16.965517
+3  class: BIRD; name:  uwuzhjuysowb ; weight:  100 ; this bird is migratory; func res:  13.660000
+4  class: BIRD; name:  zwshvunhxv ; weight:  31 ; this bird is migratory; func res:  37.000000
+5  class: FISH; name:  arqutxdkrxvlwn ; weight:  16 ; home: river; func res:  98.312500
+6  class: BIRD; name:  ebiexy ; weight:  91 ; this bird is not migratory; func res:  7.098901
+7  class: FISH; name:  xtcwkvsayxmm ; weight:  95 ; home: river; func res:  14.210526
+8  class: FISH; name:  viygtakafdqku ; weight:  56 ; home: river; func res:  25.053571
+9  class: BEAST; name:  rkxsbxnyfhjt ; weight:  16 ; this beast is carnivores; func res:  83.312500
+10  class: FISH; name:  phxriqqluf ; weight:  27 ; home: river; func res:  41.037037
+11  class: BIRD; name:  ykcozdkmz ; weight:  67 ; this bird is not migratory; func res:  14.895522
+12  class: FISH; name:  geqkuwekca ; weight:  36 ; home: lake; func res:  29.555556
+13  class: FISH; name:  uegnasssryz ; weight:  44 ; home: river; func res:  27.954545
+14  class: FISH; name:  fvqkqf ; weight:  1 ; home: river; func res:  655.000000
+15  class: BEAST; name:  ynhlikfpstpg ; weight:  88 ; this beast is insectivores; func res:  14.943182
+16  class: FISH; name:  fcbqugqtsuqql ; weight:  71 ; home: river; func res:  20.098592
+17  class: BEAST; name:  jseywynp ; weight:  48 ; this beast is carnivores; func res:  18.854167
+18  class: BEAST; name:  tdzqewpoy ; weight:  84 ; this beast is insectivores; func res:  12.083333
+19  class: BEAST; name:  bqppeohwu ; weight:  6 ; this beast is insectivores; func res:  164.500000
+
+
+ After sort function
+
+Container contains  20  elements. 
+0  class: FISH; name:  fvqkqf ; weight:  1 ; home: river; func res:  655.000000
+1  class: BEAST; name:  bqppeohwu ; weight:  6 ; this beast is insectivores; func res:  164.500000
+2  class: FISH; name:  arqutxdkrxvlwn ; weight:  16 ; home: river; func res:  98.312500
+3  class: BEAST; name:  rkxsbxnyfhjt ; weight:  16 ; this beast is carnivores; func res:  83.312500
+4  class: FISH; name:  phxriqqluf ; weight:  27 ; home: river; func res:  41.037037
+5  class: BIRD; name:  zwshvunhxv ; weight:  31 ; this bird is migratory; func res:  37.000000
+6  class: FISH; name:  geqkuwekca ; weight:  36 ; home: lake; func res:  29.555556
+7  class: FISH; name:  uegnasssryz ; weight:  44 ; home: river; func res:  27.954545
+8  class: FISH; name:  viygtakafdqku ; weight:  56 ; home: river; func res:  25.053571
+9  class: FISH; name:  dllqjq ; weight:  28 ; home: sea;  func res:  23.142857
+10  class: FISH; name:  fcbqugqtsuqql ; weight:  71 ; home: river; func res:  20.098592
+11  class: BEAST; name:  jseywynp ; weight:  48 ; this beast is carnivores; func res:  18.854167
+12  class: BEAST; name:  yvdcohznc ; weight:  58 ; this beast is insectivores; func res:  16.965517
+13  class: BEAST; name:  ynhlikfpstpg ; weight:  88 ; this beast is insectivores; func res:  14.943182
+14  class: BIRD; name:  ykcozdkmz ; weight:  67 ; this bird is not migratory; func res:  14.895522
+15  class: FISH; name:  xtcwkvsayxmm ; weight:  95 ; home: river; func res:  14.210526
+16  class: FISH; name:  stygyzmvd ; weight:  73 ; home: sea;  func res:  14.041096
+17  class: BIRD; name:  uwuzhjuysowb ; weight:  100 ; this bird is migratory; func res:  13.660000
+18  class: BEAST; name:  tdzqewpoy ; weight:  84 ; this beast is insectivores; func res:  12.083333
+19  class: BIRD; name:  ebiexy ; weight:  91 ; this bird is not migratory; func res:  7.098901

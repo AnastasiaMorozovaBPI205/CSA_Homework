@@ -1,0 +1,28 @@
+Before sort function
+
+Container contains  10  elements. 
+0  class: FISH; name:  kambala ; weight:  5 ; home: river; func res:  142.600000
+1  class: BIRD; name:  popug ; weight:  10 ; this bird is migratory; func res:  55.500000
+2  class: BEAST; name:  catty ; weight:  77 ; this beast is carnivores; func res:  7.129870
+3  class: BIRD; name:  tired ; weight:  34 ; this bird is migratory; func res:  15.764706
+4  class: BIRD; name:  bee ; weight:  11 ; this bird is not migratory; func res:  27.272727
+5  class: BEAST; name:  doggy ; weight:  23 ; this beast is herbivores; func res:  23.391304
+6  class: FISH; name:  nemo ; weight:  2 ; home: sea;  func res:  215.500000
+7  class: FISH; name:  beer ; weight:  23 ; home: lake; func res:  18.000000
+8  class: BEAST; name:  doberman ; weight:  55 ; this beast is insectivores; func res:  15.272727
+9  class: BIRD; name:  abcdefg ; weight:  10 ; this bird is migratory; func res:  70.000000
+
+
+ After sort function
+
+Container contains  10  elements. 
+0  class: FISH; name:  nemo ; weight:  2 ; home: sea;  func res:  215.500000
+1  class: FISH; name:  kambala ; weight:  5 ; home: river; func res:  142.600000
+2  class: BIRD; name:  abcdefg ; weight:  10 ; this bird is migratory; func res:  70.000000
+3  class: BIRD; name:  popug ; weight:  10 ; this bird is migratory; func res:  55.500000
+4  class: BIRD; name:  bee ; weight:  11 ; this bird is not migratory; func res:  27.272727
+5  class: BEAST; name:  doggy ; weight:  23 ; this beast is herbivores; func res:  23.391304
+6  class: FISH; name:  beer ; weight:  23 ; home: lake; func res:  18.000000
+7  class: BIRD; name:  tired ; weight:  34 ; this bird is migratory; func res:  15.764706
+8  class: BEAST; name:  doberman ; weight:  55 ; this beast is insectivores; func res:  15.272727
+9  class: BEAST; name:  catty ; weight:  77 ; this beast is carnivores; func res:  7.129870

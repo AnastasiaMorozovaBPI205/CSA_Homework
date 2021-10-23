@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ABC_OOP_HW2.dir/main.cpp.o CMakeFiles/ABC_OOP_HW2.dir/container.cpp.o CMakeFiles/ABC_OOP_HW2.dir/Animal.cpp.o CMakeFiles/ABC_OOP_HW2.dir/Fish.cpp.o CMakeFiles/ABC_OOP_HW2.dir/Bird.cpp.o CMakeFiles/ABC_OOP_HW2.dir/Beast.cpp.o -o ABC_OOP_HW2 
