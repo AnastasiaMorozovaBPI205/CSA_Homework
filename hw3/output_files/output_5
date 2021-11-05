@@ -1,0 +1,48 @@
+Before sort function
+
+Container contains  20  elements. 
+0  structure: FISH name:  dcgtftbh ; weight:  37 ; home: sea;  func res:  22.648649
+1  structure: BEAST name:  ivtywpfleg ; weight:  77 ; this beast is herbivores; func res:  14.350649
+2  structure: BEAST name:  gvlhhrcgj ; weight:  98 ; this beast is carnivores; func res:  9.785714
+3  structure: FISH name:  hulncmghi ; weight:  12 ; home: river; func res:  79.916667
+4  structure: FISH name:  nxseyqdjqe ; weight:  45 ; home: river; func res:  24.444444
+5  structure: FISH name:  lkxqkr ; weight:  9 ; home: sea;  func res:  74.333333
+6  structure: BIRD name:  drbbxyb ; weight:  85 ; this bird is migratory; func res:  8.811765
+7  structure: BIRD name:  nxrqswyy ; weight:  24 ; this bird is not migratory; func res:  38.875000
+8  structure: FISH name:  aecrmbji ; weight:  19 ; home: lake; func res:  43.631579
+9  structure: FISH name:  xfocq ; weight:  87 ; home: sea;  func res:  6.264368
+10  structure: FISH name:  ijydfrnkqi ; weight:  20 ; home: sea;  func res:  54.150000
+11  structure: BEAST name:  oolqqm ; weight:  79 ; this beast is carnivores; func res:  8.417722
+12  structure: BEAST name:  ynnfdagnl ; weight:  68 ; this beast is insectivores; func res:  14.132353
+13  structure: FISH name:  icsrpucs ; weight:  64 ; home: lake; func res:  13.687500
+14  structure: BEAST name:  rtoqbdyrta ; weight:  22 ; this beast is carnivores; func res:  50.000000
+15  structure: BIRD name:  cnduf ; weight:  62 ; this bird is not migratory; func res:  8.516129
+16  structure: BEAST name:  msdcc ; weight:  9 ; this beast is herbivores; func res:  58.000000
+17  structure: BIRD name:  ahleeixw ; weight:  88 ; this bird is not migratory; func res:  9.715909
+18  structure: FISH name:  vsgcmnoj ; weight:  45 ; home: lake; func res:  19.355556
+19  structure: BIRD name:  xvgriscls ; weight:  26 ; this bird is not migratory; func res:  38.346154
+
+
+ After sort function
+
+Container contains  20  elements. 
+0  structure: FISH name:  hulncmghi ; weight:  12 ; home: river; func res:  79.916667
+1  structure: FISH name:  lkxqkr ; weight:  9 ; home: sea;  func res:  74.333333
+2  structure: BEAST name:  msdcc ; weight:  9 ; this beast is herbivores; func res:  58.000000
+3  structure: FISH name:  ijydfrnkqi ; weight:  20 ; home: sea;  func res:  54.150000
+4  structure: BEAST name:  rtoqbdyrta ; weight:  22 ; this beast is carnivores; func res:  50.000000
+5  structure: FISH name:  aecrmbji ; weight:  19 ; home: lake; func res:  43.631579
+6  structure: BIRD name:  nxrqswyy ; weight:  24 ; this bird is not migratory; func res:  38.875000
+7  structure: BIRD name:  xvgriscls ; weight:  26 ; this bird is not migratory; func res:  38.346154
+8  structure: FISH name:  nxseyqdjqe ; weight:  45 ; home: river; func res:  24.444444
+9  structure: FISH name:  dcgtftbh ; weight:  37 ; home: sea;  func res:  22.648649
+10  structure: FISH name:  vsgcmnoj ; weight:  45 ; home: lake; func res:  19.355556
+11  structure: BEAST name:  ivtywpfleg ; weight:  77 ; this beast is herbivores; func res:  14.350649
+12  structure: BEAST name:  ynnfdagnl ; weight:  68 ; this beast is insectivores; func res:  14.132353
+13  structure: FISH name:  icsrpucs ; weight:  64 ; home: lake; func res:  13.687500
+14  structure: BEAST name:  gvlhhrcgj ; weight:  98 ; this beast is carnivores; func res:  9.785714
+15  structure: BIRD name:  ahleeixw ; weight:  88 ; this bird is not migratory; func res:  9.715909
+16  structure: BIRD name:  drbbxyb ; weight:  85 ; this bird is migratory; func res:  8.811765
+17  structure: BIRD name:  cnduf ; weight:  62 ; this bird is not migratory; func res:  8.516129
+18  structure: BEAST name:  oolqqm ; weight:  79 ; this beast is carnivores; func res:  8.417722
+19  structure: FISH name:  xfocq ; weight:  87 ; home: sea;  func res:  6.264368

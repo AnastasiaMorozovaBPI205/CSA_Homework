@@ -1,0 +1,12 @@
+Before sorting:
+Container has 3 elements:
+It's a Fish: name = kambala,  weight = 5, home = FishHome.RIVER, func res = 142.6
+It's a Bird: name = popug,  weight = 10, is migratory = True, func res = 55.5
+It's a Beast: name = catty,  weight = 77, food type = FoodType.INSECTIVORES, func res = 7.12987012987
+
+
+After sorting:
+Container has 3 elements:
+It's a Fish: name = kambala,  weight = 5, home = FishHome.RIVER, func res = 142.6
+It's a Bird: name = popug,  weight = 10, is migratory = True, func res = 55.5
+It's a Beast: name = catty,  weight = 77, food type = FoodType.INSECTIVORES, func res = 7.12987012987

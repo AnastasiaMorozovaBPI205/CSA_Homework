@@ -1,0 +1,26 @@
+Before sorting:
+Container has 10 elements:
+It's a Fish: name = kambala,  weight = 5, home = FishHome.RIVER, func res = 142.6
+It's a Bird: name = popug,  weight = 10, is migratory = True, func res = 55.5
+It's a Beast: name = catty,  weight = 77, food type = FoodType.INSECTIVORES, func res = 7.12987012987
+It's a Bird: name = tired,  weight = 34, is migratory = True, func res = 15.7647058824
+It's a Bird: name = bee,  weight = 11, is migratory = True, func res = 27.2727272727
+It's a Beast: name = doggy,  weight = 23, food type = FoodType.INSECTIVORES, func res = 23.3913043478
+It's a Fish: name = nemo,  weight = 2, home = FishHome.RIVER, func res = 215.5
+It's a Fish: name = beer,  weight = 23, home = FishHome.RIVER, func res = 18.0
+It's a Beast: name = doberman,  weight = 55, food type = FoodType.INSECTIVORES, func res = 15.2727272727
+It's a Bird: name = abcdefg,  weight = 10, is migratory = True, func res = 70.0
+
+
+After sorting:
+Container has 10 elements:
+It's a Fish: name = nemo,  weight = 2, home = FishHome.RIVER, func res = 215.5
+It's a Fish: name = kambala,  weight = 5, home = FishHome.RIVER, func res = 142.6
+It's a Bird: name = abcdefg,  weight = 10, is migratory = True, func res = 70.0
+It's a Bird: name = popug,  weight = 10, is migratory = True, func res = 55.5
+It's a Bird: name = bee,  weight = 11, is migratory = True, func res = 27.2727272727
+It's a Beast: name = doggy,  weight = 23, food type = FoodType.INSECTIVORES, func res = 23.3913043478
+It's a Fish: name = beer,  weight = 23, home = FishHome.RIVER, func res = 18.0
+It's a Bird: name = tired,  weight = 34, is migratory = True, func res = 15.7647058824
+It's a Beast: name = doberman,  weight = 55, food type = FoodType.INSECTIVORES, func res = 15.2727272727
+It's a Beast: name = catty,  weight = 77, food type = FoodType.INSECTIVORES, func res = 7.12987012987

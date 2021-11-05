@@ -1,0 +1,66 @@
+Before sorting:
+Container has 30 elements:
+It's a Bird: name = buvkrlucvav,  weight = 71, is migratory = False, func res = 17.0563380282
+It's a Beast: name = samxjhmksxr,  weight = 80, food type = FoodType.HERBIVORES, func res = 15.2
+It's a Bird: name = swowv,  weight = 86, is migratory = False, func res = 6.76744186047
+It's a Bird: name = ovypygfprrhbgw,  weight = 72, is migratory = False, func res = 21.5555555556
+It's a Fish: name = flfqwmlbvx,  weight = 53, home = FishHome.LAKE, func res = 20.6981132075
+It's a Bird: name = yqsqrxjjbes,  weight = 36, is migratory = False, func res = 33.9444444444
+It's a Fish: name = mmhhhvyeuq,  weight = 21, home = FishHome.LAKE, func res = 52.380952381
+It's a Fish: name = sjceku,  weight = 69, home = FishHome.LAKE, func res = 9.34782608696
+It's a Fish: name = etbuaqjiweud,  weight = 48, home = FishHome.LAKE, func res = 26.875
+It's a Beast: name = lzrlobqo,  weight = 41, food type = FoodType.CARNIVORES, func res = 21.5853658537
+It's a Beast: name = ljvresjqqeaag,  weight = 37, food type = FoodType.HERBIVORES, func res = 37.6216216216
+It's a Fish: name = aiuorob,  weight = 74, home = FishHome.LAKE, func res = 10.1756756757
+It's a Fish: name = uaczcypdbjxvav,  weight = 42, home = FishHome.LAKE, func res = 36.2857142857
+It's a Bird: name = rcqnie,  weight = 76, is migratory = False, func res = 8.44736842105
+It's a Beast: name = atolcaxciis,  weight = 17, food type = FoodType.HERBIVORES, func res = 68.9411764706
+It's a Beast: name = mokollye,  weight = 91, food type = FoodType.HERBIVORES, func res = 9.62637362637
+It's a Fish: name = ldnbetxy,  weight = 41, home = FishHome.SEA, func res = 21.3170731707
+It's a Fish: name = svvluofxbiaum,  weight = 7, home = FishHome.LAKE, func res = 205.0
+It's a Beast: name = lknzpvzk,  weight = 51, food type = FoodType.HERBIVORES, func res = 17.7647058824
+It's a Fish: name = ebuarmtosqq,  weight = 13, home = FishHome.SEA, func res = 92.6153846154
+It's a Beast: name = elawdcxdiazln,  weight = 26, food type = FoodType.CARNIVORES, func res = 53.3076923077
+It's a Bird: name = jbidejeudpmi,  weight = 80, is migratory = True, func res = 15.75
+It's a Beast: name = oxnrxrm,  weight = 24, food type = FoodType.CARNIVORES, func res = 33.25
+It's a Bird: name = vjteqqoi,  weight = 75, is migratory = False, func res = 11.7733333333
+It's a Bird: name = qflmlyzrwz,  weight = 18, is migratory = False, func res = 63.2222222222
+It's a Beast: name = yaspqldyhipobr,  weight = 60, food type = FoodType.CARNIVORES, func res = 25.5166666667
+It's a Bird: name = ryojfitk,  weight = 18, is migratory = False, func res = 49.0
+It's a Fish: name = oxbpagyokyvvrv,  weight = 71, home = FishHome.SEA, func res = 22.0985915493
+It's a Beast: name = ehrxjevnjjvhfu,  weight = 20, food type = FoodType.HERBIVORES, func res = 76.35
+It's a Beast: name = atebsd,  weight = 86, food type = FoodType.HERBIVORES, func res = 7.29069767442
+
+
+After sorting:
+Container has 30 elements:
+It's a Fish: name = svvluofxbiaum,  weight = 7, home = FishHome.LAKE, func res = 205.0
+It's a Fish: name = ebuarmtosqq,  weight = 13, home = FishHome.SEA, func res = 92.6153846154
+It's a Beast: name = ehrxjevnjjvhfu,  weight = 20, food type = FoodType.HERBIVORES, func res = 76.35
+It's a Beast: name = atolcaxciis,  weight = 17, food type = FoodType.HERBIVORES, func res = 68.9411764706
+It's a Bird: name = qflmlyzrwz,  weight = 18, is migratory = False, func res = 63.2222222222
+It's a Beast: name = elawdcxdiazln,  weight = 26, food type = FoodType.CARNIVORES, func res = 53.3076923077
+It's a Fish: name = mmhhhvyeuq,  weight = 21, home = FishHome.LAKE, func res = 52.380952381
+It's a Bird: name = ryojfitk,  weight = 18, is migratory = False, func res = 49.0
+It's a Beast: name = ljvresjqqeaag,  weight = 37, food type = FoodType.HERBIVORES, func res = 37.6216216216
+It's a Fish: name = uaczcypdbjxvav,  weight = 42, home = FishHome.LAKE, func res = 36.2857142857
+It's a Bird: name = yqsqrxjjbes,  weight = 36, is migratory = False, func res = 33.9444444444
+It's a Beast: name = oxnrxrm,  weight = 24, food type = FoodType.CARNIVORES, func res = 33.25
+It's a Fish: name = etbuaqjiweud,  weight = 48, home = FishHome.LAKE, func res = 26.875
+It's a Beast: name = yaspqldyhipobr,  weight = 60, food type = FoodType.CARNIVORES, func res = 25.5166666667
+It's a Fish: name = oxbpagyokyvvrv,  weight = 71, home = FishHome.SEA, func res = 22.0985915493
+It's a Beast: name = lzrlobqo,  weight = 41, food type = FoodType.CARNIVORES, func res = 21.5853658537
+It's a Bird: name = ovypygfprrhbgw,  weight = 72, is migratory = False, func res = 21.5555555556
+It's a Fish: name = ldnbetxy,  weight = 41, home = FishHome.SEA, func res = 21.3170731707
+It's a Fish: name = flfqwmlbvx,  weight = 53, home = FishHome.LAKE, func res = 20.6981132075
+It's a Beast: name = lknzpvzk,  weight = 51, food type = FoodType.HERBIVORES, func res = 17.7647058824
+It's a Bird: name = buvkrlucvav,  weight = 71, is migratory = False, func res = 17.0563380282
+It's a Bird: name = jbidejeudpmi,  weight = 80, is migratory = True, func res = 15.75
+It's a Beast: name = samxjhmksxr,  weight = 80, food type = FoodType.HERBIVORES, func res = 15.2
+It's a Bird: name = vjteqqoi,  weight = 75, is migratory = False, func res = 11.7733333333
+It's a Fish: name = aiuorob,  weight = 74, home = FishHome.LAKE, func res = 10.1756756757
+It's a Beast: name = mokollye,  weight = 91, food type = FoodType.HERBIVORES, func res = 9.62637362637
+It's a Fish: name = sjceku,  weight = 69, home = FishHome.LAKE, func res = 9.34782608696
+It's a Bird: name = rcqnie,  weight = 76, is migratory = False, func res = 8.44736842105
+It's a Beast: name = atebsd,  weight = 86, food type = FoodType.HERBIVORES, func res = 7.29069767442
+It's a Bird: name = swowv,  weight = 86, is migratory = False, func res = 6.76744186047
