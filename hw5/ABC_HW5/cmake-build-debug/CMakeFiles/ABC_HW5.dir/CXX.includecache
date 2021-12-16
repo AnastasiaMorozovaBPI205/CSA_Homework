@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anastasia/CLionProjects/ABC_HW5/main.cpp
+iostream
+-
+mutex
+-
+queue
+-
+thread
+-
+pthread.h
+/home/anastasia/CLionProjects/ABC_HW5/pthread.h
+unistd.h
+/home/anastasia/CLionProjects/ABC_HW5/unistd.h
+semaphore.h
+-
+
